@@ -23,8 +23,8 @@ theme = "sam"
 # Put all your custom variables here
 sam_menu = [
     { text = "posts", link = "/posts" },
-    { text = "about", link = "/about" },
-    { text = "presentations", link = "/presentations" },
+    { text = "about", link = "/about/" },
+    { text = "presentations", link = "/presentations/" },
     { text = "github", link = "https://github.com/bgaster" }
 ]
 sam_bottom_menu = true
