@@ -6,7 +6,7 @@ no_header = true
 
 Below are links to some recent presentations.
 
-- [Rust when it makes sense, FOSDEM'20](/presentations_reveal/FOSDEM'20/)
+- [Rust when it makes sense, FOSDEM'20](/presentations_reveal/FOSDEM20/)
 - [Fun with Interfaces (SVG Interfaces for Musical Expression), FARM'19](/presentations_source/farm19/index.html)
 - [LoRaWAN @In Your Aerial, March 2019](/presentations_source/in_Your_aerial_march2019/index.html)
 - [Low Cost Wireless Network for Bristol, @In Your Aerial, Oct 2019](/presentations_source/in_Your_aerial_oct2019/index.html)
